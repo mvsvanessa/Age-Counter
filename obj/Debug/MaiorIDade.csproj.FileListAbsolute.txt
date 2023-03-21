@@ -1,0 +1,10 @@
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\bin\Debug\MaiorIDade.exe.config
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\bin\Debug\MaiorIDade.exe
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\bin\Debug\MaiorIDade.pdb
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\obj\Debug\MaiorIDade.csprojAssemblyReference.cache
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\obj\Debug\MaiorIDade.Form1.resources
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\obj\Debug\MaiorIDade.Properties.Resources.resources
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\obj\Debug\MaiorIDade.csproj.GenerateResource.cache
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\obj\Debug\MaiorIDade.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\obj\Debug\MaiorIDade.exe
+C:\Users\Professor\source\repos\Correcao_2608\MaiorIDade\obj\Debug\MaiorIDade.pdb
